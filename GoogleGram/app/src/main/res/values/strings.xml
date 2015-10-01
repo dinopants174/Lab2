@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleGram</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchGoogle">Search Google</string>
+    <string name="next_image">Next image</string>
+    <string name="previous">Prev image</string>
+    <string name="save">Save</string>
+    <string name="view_feed">View Feed</string>
+</resources>
